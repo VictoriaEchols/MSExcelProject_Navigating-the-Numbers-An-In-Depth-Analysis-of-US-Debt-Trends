@@ -36,10 +36,14 @@ The project involved several critical steps executed within Excel:
 
 3. **Analysis and Visualization**: Using Excel's analytical tools to perform trend analysis and create visualizations that clearly depict the evolution of US debt.
 4. **Insight Generation**: Synthesizing findings to draw meaningful conclusions about US debt trends and their potential impact.
-   ![Screenshot 2024-02-16 005358](https://github.com/VictoriaEchols/MSExcelProject_Navigating-the-Numbers-An-In-Depth-Analysis-of-US-Debt-Trends/assets/157342613/686b167b-8dd2-478f-9fc2-0ce90c0966f5)
+
+
+    ![Screenshot 2024-02-16 005358](https://github.com/VictoriaEchols/MSExcelProject_Navigating-the-Numbers-An-In-Depth-Analysis-of-US-Debt-Trends/assets/157342613/686b167b-8dd2-478f-9fc2-0ce90c0966f5)
+
 
 
    ![Screenshot 2024-02-16 005430](https://github.com/VictoriaEchols/MSExcelProject_Navigating-the-Numbers-An-In-Depth-Analysis-of-US-Debt-Trends/assets/157342613/1c985ee6-32ef-4da9-906b-74d37cd24384)
+
 
 
    ![Screenshot 2024-02-16 005547](https://github.com/VictoriaEchols/MSExcelProject_Navigating-the-Numbers-An-In-Depth-Analysis-of-US-Debt-Trends/assets/157342613/c1702d7d-bc08-48a3-8926-0761d8a046ec)
