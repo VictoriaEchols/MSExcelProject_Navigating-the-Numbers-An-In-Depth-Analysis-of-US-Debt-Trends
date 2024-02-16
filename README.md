@@ -29,8 +29,15 @@ The analysis of US debt through Excel provided a nuanced view of the nation's fi
 
 The project involved several critical steps executed within Excel:
 1. **Data Compilation**: Aggregating US debt data from various official sources into a comprehensive Excel dataset.
+   ![Screenshot 2024-02-16 005146](https://github.com/VictoriaEchols/MSExcelProject_Navigating-the-Numbers-An-In-Depth-Analysis-of-US-Debt-Trends/assets/157342613/1949a874-1ce7-4132-8db9-bb99eafe7852)
+
 2. **Data Cleaning and Preparation**: Ensuring data accuracy and consistency, setting the stage for effective analysis.
+   ![Screenshot 2024-02-16 005259](https://github.com/VictoriaEchols/MSExcelProject_Navigating-the-Numbers-An-In-Depth-Analysis-of-US-Debt-Trends/assets/157342613/93b4cbac-5b95-478d-9ff0-ed8d61a97b45)
+
 3. **Analysis and Visualization**: Using Excel's analytical tools to perform trend analysis and create visualizations that clearly depict the evolution of US debt.
 4. **Insight Generation**: Synthesizing findings to draw meaningful conclusions about US debt trends and their potential impact.
+   ![Screenshot 2024-02-16 005358](https://github.com/VictoriaEchols/MSExcelProject_Navigating-the-Numbers-An-In-Depth-Analysis-of-US-Debt-Trends/assets/157342613/686b167b-8dd2-478f-9fc2-0ce90c0966f5)
+   ![Screenshot 2024-02-16 005430](https://github.com/VictoriaEchols/MSExcelProject_Navigating-the-Numbers-An-In-Depth-Analysis-of-US-Debt-Trends/assets/157342613/1c985ee6-32ef-4da9-906b-74d37cd24384)
+   ![Screenshot 2024-02-16 005547](https://github.com/VictoriaEchols/MSExcelProject_Navigating-the-Numbers-An-In-Depth-Analysis-of-US-Debt-Trends/assets/157342613/c1702d7d-bc08-48a3-8926-0761d8a046ec)
 
 This project represents an effort to demystify the often complex narrative surrounding the US national debt, offering clear, data-backed insights into its past, present, and potential future.
